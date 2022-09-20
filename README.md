@@ -35,4 +35,4 @@ a = Analysis(['main.py'],
              datas=[('C:\\Users\\i7 8700\\PycharmProjects\\osrs_xp_stat_generator\\*.png','.'),('C:\\Users\\i7 8700\\PycharmProjects\\osrs_xp_stat_generator\\images\\','.')],
 ```
 
-An important component to ensure images are build into the exe file is updating the spec file with the path location of the image files and any other files that are needed. from the above i referenced in 'datas=' want any png file to be included in the packaging in the exe. make sure to change the file path as it is set to my userpath.
+An important component to ensure images are build into the exe file is updating the spec file with the path location of the image files and any other files that are needed. from the above referenced in 'datas=' i want any png file to be included in the packaging in the exe. make sure to change the file path as it is set to my userpath.
