@@ -2,7 +2,8 @@
 
 Creates a stat card of your the desired stats inputted into the userform:
 
-Starts with a blank form
+Starts with a blank card:
+
 ![image](https://user-images.githubusercontent.com/81003470/191150799-5ac85877-0e17-4f76-bfae-afaf0c13d726.png)
 
 Add you add in numbers in each skill:
