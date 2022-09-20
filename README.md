@@ -1,0 +1,1 @@
+# osrs_stat_generator
