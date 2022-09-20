@@ -1,5 +1,19 @@
 # osrs_stat_generator
 
+Creates a stat card of your the desired stats inputted into the userform:
+
+Starts with a blank form
+![image](https://user-images.githubusercontent.com/81003470/191150799-5ac85877-0e17-4f76-bfae-afaf0c13d726.png)
+
+Add you add in numbers in each skill:
+
+![image](https://user-images.githubusercontent.com/81003470/191150904-cf8a2410-17c1-4cd5-a878-c6f8160aac11.png)
+
+The result is saved to a png file 'Result.png' located in the same location as the exe file.
+
+![image](https://user-images.githubusercontent.com/81003470/191150984-e1a38e4e-0e50-4277-8150-5adeeb1f9f93.png)
+
+
 This project incorporates pyinstaller to package the project into a executable file. this is a good example of a project that is dependant on images and creating files which can be difficult to work as intended in a exe file. 
 
 The main part of the code that helps ensure images and created files are referenced when running the exe file is the resourcepath function.
